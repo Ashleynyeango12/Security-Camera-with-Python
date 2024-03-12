@@ -9,4 +9,6 @@ Install the following packages in your terminal of the IDE using the following c
 pip install cv2 
 pip install winsound
 
+ensure that your alert.wav file is in thesame folder as the main file.
+
 
